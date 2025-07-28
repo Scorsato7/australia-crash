@@ -11,3 +11,8 @@ Pensando neste contexto, este projeto tem como intuito realizar uma análise exp
 <a href="https://matplotlib.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" target="_blank"></a>
 <a href="https://seaborn.pydata.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Seaborn-455396?style=flat&logo=circle&logoColor=white" target="_blank"></a>
 <a href="https://scitools.org.uk/cartopy/docs/latest/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Cartopy-50a9c7?style=flat&logo=googlemaps&logoColor=white&color=50a9c7" target="_blank"></a>
+
+## 📘 Imagens do Projeto
+![HeatMap](https://imgur.com/vZSGkcY.png)
+![Map 1](https://imgur.com/38Rs1R1.png)
+![Map 2](https://imgur.com/2SYlzOa.png)
